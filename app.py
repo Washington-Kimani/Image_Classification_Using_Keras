@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 from tensorflow.keras.models import load_model
 
 # Load your model (ensure your model is accessible in the same directory or provide the correct path)
-model = load_model('/home/codename/projects/ds n ml/models/Image_Classification_Using_Keras/cat_dog.keras')
+model = load_model('')
 
 st.title('Cat vs Dog Classifier')
 
